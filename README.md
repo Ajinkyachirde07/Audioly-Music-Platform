@@ -19,7 +19,7 @@ FIRST Download
 
 6. Import music_db.sql file
 
-7.Run the script http://localhost/FIRST Download
+7.Run the script http://localhost/FIRST-Download
 
 1.XAMPP
 
