@@ -4,7 +4,7 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"music"
+3"Audioly Music Platform "
 
 4. Download the zip file/ download winrar
 
