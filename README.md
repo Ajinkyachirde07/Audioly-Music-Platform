@@ -39,14 +39,16 @@ FIRST Download
 
 6. Import music_db.sql file
 
-7.Run the script http://localhost/Audioly Music Platform 
+7.Run the script http://localhost/Audioly-Music-Platform 
 
 Admin Access
 email: admin@admin.com
+
 password: admin123
 
 Sample User Access
 email: jsmith@sample.com
+
 password: jsmith123
 
 
