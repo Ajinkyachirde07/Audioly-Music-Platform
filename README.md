@@ -7,7 +7,7 @@ Login Page
 
 Home Page
 
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img13.png
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img13.png">
   
 All music List Page
 
