@@ -23,7 +23,9 @@ FIRST Download
 
 7.Run the script http://localhost/Audioly-Music-Platform 
 
-Features;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Features :
 
 Login Page
 
