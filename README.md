@@ -1,41 +1,6 @@
 # Audioly-Music-Platform
 
 
-Login Page
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img8.png">
-
-Home Page
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img13.png">
-  
-All music List Page
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img1.png">
-
-Genre Page 
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img10.png">
-
-Playlist Page
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img11.png">
-
-Administrator Page
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img1.png">
-
-User Management by Administrator 
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img3.png">
-
-Edit Option for Administrator 
-
-<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img2.png">
-
-
-
-
 FIRST Download
 1.XAMPP
 
@@ -85,8 +50,49 @@ password: admin123
 
 Sample User Access
 
-email: jsmith@sample.com
+email: ajinkyachirde07@gmail.com
 
-password: jsmith123
+password: 766666556
+
+
+
+
+
+Login Page
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img8.png">
+
+Home Page
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img13.png">
+  
+All music List Page
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img1.png">
+
+Genre Page 
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img10.png">
+
+Playlist Page
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img11.png">
+
+Administrator Page
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img1.png">
+
+User Management by Administrator 
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img3.png">
+
+Edit Option for Administrator 
+
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Audioly-Music-Platform/blob/main/Audioly/assets/img2.png">
+
+
+
+
+
 
 
