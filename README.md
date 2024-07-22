@@ -23,6 +23,16 @@ FIRST Download
 
 7.Run the script http://localhost/Audioly-Music-Platform 
 
+Features;
+Login Page
+Registration Page
+Home Page
+Manage Music/Songs
+Manage Playlist
+Manage Genres
+Manage Users
+Music Player Panel
+
 
 
 Admin Access
